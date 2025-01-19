@@ -1,7 +1,10 @@
 ## Hi there 👋
-![Fa18AarGIF](https://github.com/user-attachments/assets/b62e8095-e0f7-4dc1-a99c-20e1eb802699)
-![Boeing](https://github.com/draganode/draganode/assets/boeing.svg)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b62e8095-e0f7-4dc1-a99c-20e1eb802699" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github.com/draganode/draganode/blob/main/assets/boeing.svg" width="300" />
+</p>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
