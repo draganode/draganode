@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2>Hello 👋</h2>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b62e8095-e0f7-4dc1-a99c-20e1eb802699" width="300"/>
 </p>
@@ -17,6 +17,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
 ---
