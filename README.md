@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/draganode/draganode/blob/main/assets/html5.svg" alt="HTML5 logo" width="50" height="60"><img src="https://github.com/draganode/draganode/blob/main/assets/css3.svg" alt="CSS3 logo" width="50" height="60">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draganode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
