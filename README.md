@@ -24,4 +24,4 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draganode&theme=merko&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draganode&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
