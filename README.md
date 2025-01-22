@@ -26,3 +26,6 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draganode&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
+![draganode's GitHub stats](https://github-readme-stats.vercel.app/api?username=draganode&show_icons=true&theme=merko&bg_color=00000000)
+[![draganode's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=draganode&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![draganode's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=draganode&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
